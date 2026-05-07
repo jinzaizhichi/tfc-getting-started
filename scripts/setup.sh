@@ -269,9 +269,6 @@ divider
 echo
 success "You did it! You just provisioned infrastructure with HCP Terraform!"
 echo
-info "The organization we created here has a 30-day free trial of the Team &
-Governance tier features. After the trial ends, you'll be moved to the Free tier."
-echo
 echo "You now have:"
 echo
 echo "  * Workspaces for organizing your infrastructure. HCP Terraform manages"
